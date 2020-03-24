@@ -1,0 +1,43 @@
+.col-sm-6{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+#welcome{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#close{
+    width: 50px;
+}
+p{
+font-family: linotype-didot-roman;
+}
+
+.violet-grey{
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0px;
+}
+.indus{
+        font-size: 10px !important;
+        text-align: center;
+        font-weight: lighter;
+    }
+
+
+input{
+    width: 250px;
+    border-color: black;
+    border-width: 1px;
+    padding: 5px;
+    
+}
+.btn-dark{
+    height: 30px;
+    width: 150px;
+    border-radius: 0% !important;
+    font-size: 10px !important;
+}
